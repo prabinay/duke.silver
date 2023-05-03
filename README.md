@@ -1,3 +1,3 @@
 # duke.silver
 
-My personal Portfolio.
+My personal Portfolio. 
